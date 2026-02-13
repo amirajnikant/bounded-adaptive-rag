@@ -1,4 +1,4 @@
-# bounded-adaptive-basline-rag
+# Bounded-adaptive-basline-rag
 **Cost-controlled, latency-bounded AI infrastructure for production systems**
 
 ---
